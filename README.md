@@ -17,4 +17,8 @@ you should see this.
 This applies to all webpages and apps in the project.
 
 
+# Credits
+
+created by Jesse Lustig
+
 
