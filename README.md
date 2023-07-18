@@ -2,6 +2,7 @@
 project name: mysite
 Description: This project is my first ever django project it features 2 webapps, a blog, a poll voting system and a user auth and registratiion system.
 # instilation
+You need to pull the file to your local repository here is a video explaining how to do that https://www.youtube.com/watch?v=_ynMa2XlRgk
 Download the file and run in VS Code
 # How to use the software
 In Vs Code in the terminal type:cd mysite and then python manage.py runserver
